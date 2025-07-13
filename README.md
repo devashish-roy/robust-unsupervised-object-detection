@@ -2,7 +2,7 @@
 A Multi-Layer Framework Using Open-Vocabulary Zero-Shot Detector, Vision-Language Models and Segmentation for Data Annotation
 
 ## Overview
-This repository contains the code, data, and documentation for my Master’s thesis:
+This repository contains the code and documentation for my Master’s thesis:
 **"Towards robust unsupervised object detection - A Multi-Layer Framework Using Open-Vocabulary Zero-Shot Detector, Vision-Language Models and Segmentation for Data Annotation"**
 at *Luleå University of Technology, Department of Computer Science, Electrical and Space Engineering*, supervised by *Prof. Hamam Mokayed*.
 
