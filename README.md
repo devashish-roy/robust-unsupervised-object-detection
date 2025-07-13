@@ -1,28 +1,18 @@
 # Towards robust unsupervised object detection
 A Multi-Layer Framework Using Open-Vocabulary Zero-Shot Detector, Vision-Language Models and Segmentation for Data Annotation
 
-
-# 📚 Thesis Title
-*A brief, clear subtitle if needed*
-
-![GitHub repo size](https://github.com/devashish-roy/robust-unsupervised-object-detection)
-
-
----
-
-## 🎯 Overview
+## Overview
 This repository contains the code, data, and documentation for my Master’s thesis:
 **"Towards robust unsupervised object detection - A Multi-Layer Framework Using Open-Vocabulary Zero-Shot Detector, Vision-Language Models and Segmentation for Data Annotation"**
-at *Luleå University of Technology, Department*, supervised by *Prof. Homam Mokayed*.
+at *Luleå University of Technology, Department of Computer Science, Electrical and Space Engineering *, supervised by *Prof. Homam Mokayed*.
 
 The aim of this thesis was to [state your main goal/problem].  
 It explores [briefly what your work does or investigates].
 
 ---
 
-## 📝 Abstract
-*(Optional, or link to your PDF)*
-> Insert your thesis abstract here or link to the full thesis PDF.
+## Abstract
+> Object detection has witnessed significant progress in recent years; however, its application in the Nordic region has remained limited. This is largely due to region’s unique geographical and environmental characteristics which creates a significant domain gap between available aerial datasets and the conditions existing in Nordic regions. Additionally, there is notable scarcity of annotated data in this region, which further limits the industrial adoption of current object detection methods. This master’s thesis addresses these challenges by proposing a multi-layered framework that leverages state-of-the-art pre-trained models such as Grounding DINO, SAM2, and Vision-Language Models such as Gemma3 and PaliGemma2, to generate high-quality pseudo-labels from unannotated data in an unsupervised manner. These pseudo-labels can then be used for training, evaluation, and fine-tuning of object detection models, ultimately supporting the development of robust and scalable object detection solutions.
 
 ---
 
