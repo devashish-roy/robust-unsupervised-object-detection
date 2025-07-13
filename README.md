@@ -17,7 +17,7 @@ The aim of this thesis was to design, implement, and evaluate an unsupervised mu
 
 ## 🗂️ Contents
 - `src/` — source code
-- `data/` — datasets (or links)
+- `data/` — https://nvd.ltu-ai.dev/
 - `notebooks/` — Jupyter notebooks (if any)
 - `results/` — output files, figures, or reports
 - `thesis.pdf` — the final thesis document
