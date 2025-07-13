@@ -17,5 +17,4 @@ The aim of this thesis was to design, implement, and evaluate an unsupervised mu
 
 ## 🗂️ Contents
 - `experiments/` — https://github.com/devashish-roy/robust-unsupervised-object-detection/tree/main/experiments
-- `data/` — https://nvd.ltu-ai.dev/
 - `thesis document` — https://github.com/devashish-roy/robust-unsupervised-object-detection/blob/main/Project%20Document.pdf
